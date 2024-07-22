@@ -13,6 +13,6 @@ With a passion for fashion here's my very own custom website relating to it.
  </p>
 
   <p align="center">
-    And that's how it looks
+    And that's how it looks  https://zerofashionstore.netlify.app
  </p>
 
